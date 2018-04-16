@@ -27,4 +27,5 @@ Collect some awesome blogs, welcome to contribute for this repo. :smile:
 16. [瓜地](http://www.desgard.com/)
 17. [Joy_xx](https://juejin.im/user/5656f11760b28da566412f03/posts)
 18. [J_Knight](https://juejin.im/post/5a7b4101f265da4e7071b097)
-
+19. [NSHipster](http://nshipster.cn/)
+20. [ibireme](https://blog.ibireme.com/archive/)
